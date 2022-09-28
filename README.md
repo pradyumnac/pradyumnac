@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a restaurant management system 
   - Goal: Minimizing the number of tech stack involved
   - Easy for a first time business owner
-  - Current status: [Live Demo](https://pradyumnac.github.io/restaurantmenu/)
+  - Current status: <a href= "https://pradyumnac.github.io/restaurantmenu/" href="_blank">Live Demo]</a>
 - 🌱 I’m currently learning **Devops** & **Smart Contracts**
 - 👯 I’m looking to collaborate on 
   - Blockchain & Smart Contracts
