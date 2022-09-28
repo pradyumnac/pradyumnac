@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><img src=https://tenor.com/be7bv.gif width="400" height="200"></p>
+<p align="center"><img src=https://c.tenor.com/SsAvKXg2oIoAAAAi/hi-wave.gif width="400" height="200"></p>
 
 <h1 align="center">I am Pradyumna Chatterjee</h1>
 <b><p align="center">🐍 Pythonista | 🛠 Golanger | 🌐 Full Stack Developer | 🕸️Web Scraping | 💰 Fintech </p></b>
