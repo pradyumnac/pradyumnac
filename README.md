@@ -6,8 +6,8 @@
 <b><p align="center">🐍 Pythonista | 🛠 Golanger | 🌐 Full Stack Developer | 🕸️Web Scraping | 💰 Fintech </p></b>
 
 - 🔭 I’m currently working on a restaurant management system 
-  - Goal: Minimizing the number of tech stack involved
-  - Easy for a first time business owner
+  - Goal: Minimizing the number of moving parts in tech stack 
+  - Easy for a first time business owner. Self managed. Optimised for small store
   - Current status: <a href= "https://pradyumnac.github.io/restaurantmenu/" href="_blank">Live Demo</a>
 - 🌱 I’m currently learning **Devops** & **Smart Contracts**
 - 👯 I’m looking to collaborate on 
