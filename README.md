@@ -11,7 +11,7 @@
   - Current status: [Live Demo](https://pradyumnac.github.io/restaurantmenu/)
 - 🌱 I’m currently learning **Devops** & **Smart Contracts**
 - 👯 I’m looking to collaborate on 
-  - Blockchain 7 Smart Contracts
+  - Blockchain & Smart Contracts
   - Investing Tools
 - 💬 Ask me about 
   - Python
