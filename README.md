@@ -29,7 +29,14 @@
 ---
 My Featured Repositories
 ===
-
+1. [Fast NSE Realtime Market Data grabber](https://www.pkslegalfirm.com/) - Written in pure #Go, extremely fast. (Bottlenecked by NSE Website speed)
+2. [NSE Historical Data Grabber - Daily Timeframe - for F&O](https://github.com/pradyumnac/data-nsehistorical-python) - #Python #FastAPI #BeautifulSoup4
+3. [Zerodha Kite - Front end Automation](https://github.com/pradyumnac/KiteAuto) - Using #Python, #Selenium
+4. [BSE/NSE Corporate Announcements Tracker](https://github.com/pradyumnac/companyannouncements) - #python #Pypeteer - Fetches paginated data
+4. [GO Based fast company basic details fetcher](https://github.com/pradyumnac/go-companyupdates-bsense) - #Go #BSEAPI #NSE API
+6. [PKS Legal Firm - Site](https://www.pkslegalfirm.com/) - [Repo](https://github.com/pkslegal/pkslegal.github.io)  - An SPA website deployed on github pages with HUGO SSG. #Hugo #jQuery #Bootstrap # Responsive Design
+7. [Aliexpress orders](https://github.com/pradyumnac/AliexpressOrders) - Aliexpress orders parser - Data aggreagtion of all orders into excel #Python #Selenium #Beautifulsoup
+  
 ---
 My Gists
 ========
