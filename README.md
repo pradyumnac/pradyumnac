@@ -34,7 +34,7 @@ My Featured Repositories
 3. [Zerodha Kite - Front End Automation](https://github.com/pradyumnac/KiteAuto) - Using #Python, #Selenium
 4. [BSE/NSE Corporate Announcements Tracker](https://github.com/pradyumnac/companyannouncements) - #python #Pypeteer - Fetches paginated data
 4. [Listed Companies - Basic Details Fetcher](https://github.com/pradyumnac/go-companyupdates-bsense) - #Go #BSEAPI #NSE API
-6. [PKS Legal Firm|Site](https://www.pkslegalfirm.com/) - An SPA website deployed on github pages with pelican SSG. #Hugo #jQuery #Bootstrap # Responsive Design - [Repo](https://github.com/pkslegal/pkslegal.github.io
+6. [PKS Legal Firm|Site](https://www.pkslegalfirm.com/) - An SPA website deployed on github pages with pelican SSG. #Hugo #jQuery #Bootstrap # Responsive Design - [Repo](https://github.com/pkslegal/pkslegal.github.io)
 7. [Aliexpress Orders](https://github.com/pradyumnac/AliexpressOrders) - Aliexpress orders parser - Data aggreagtion of all orders into excel #Python #Selenium #Beautifulsoup
 8. [IPACCT - AutoLogin](https://github.com/pradyumnac/InternetLoginIPACCT) - Auto login logout for Internet service provider - #Python
   
