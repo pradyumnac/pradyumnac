@@ -41,8 +41,9 @@ My Featured Repositories
 ---
 My Gists
 ========
-1. [How to delete Multiple Gihtub.com repos in windows](https://gist.github.com/pradyumnac/4aaf21781f013b3997252a78c846fdf1)
-2. [Install chocolatey from command prompt](https://gist.github.com/pradyumnac/9800d5936a3bc54e17807563b0ff0409)
-3. [My Commonly used vscode extension](https://gist.github.com/pradyumnac/9800d5936a3bc54e17807563b0ff0409)
-4. [Combine multiple pdf using ghostscript with optimised file size](https://gist.github.com/pradyumnac/6d1a9c7d732ff366f2af48a2424ed47e)
-5. [My XFCE Keyboard shortcuts](https://gist.github.com/pradyumnac/c82c0d0934f2211af0a70bae0a8fb32a)
+1. [GIT Helpers for managing multi repos ](https://gist.github.com/pradyumnac/25840aa2eb847551364883a820df7ddb) #bash
+2. [Get Twitter following/followers](https://gist.github.com/pradyumnac/21c21fe9218c6dd9200f04c9a79c73530) #js
+3. [Convert Youtube subscriptions(CSV) to Newsboat urls format](https://gist.github.com/pradyumnac/c067a3e8c35de4fa2c0ee4bc463b4ff8) #Bash
+4. [How to delete Multiple Gihtub.com repos in windows](https://gist.github.com/pradyumnac/4aaf21781f013b3997252a78c846fdf1)
+5. [Install chocolatey from command prompt](https://gist.github.com/pradyumnac/9800d5936a3bc54e17807563b0ff0409)
+6. [Combine multiple pdf using ghostscript with optimised file size](https://gist.github.com/pradyumnac/6d1a9c7d732ff366f2af48a2424ed47e)
