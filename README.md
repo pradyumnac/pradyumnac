@@ -5,14 +5,6 @@
 <h1 align="center">I am Pradyumna Chatterjee</h1>
 <b><p align="center">🐍 Pythonista | 🛠 Gopher | 🌐 Full Stack Developer | 👩‍💻 Builds CLI Toold | 💰 Fintech </p></b>
 
-- 🔭 I’m currently working on a restaurant management system 
-  - Goal: Minimizing the number of moving parts in tech stack 
-  - Easy for a first time business owner. Self managed. Optimised for small store
-  - Current status: <a href= "https://pradyumnac.github.io/restaurantmenu/" href="_blank">Live Demo</a>
-- 🌱 I’m currently learning **Devops** & **Smart Contracts**
-- 👯 I’m looking to collaborate on 
-  - Blockchain & Smart Contracts
-  - Investing Tools
 - 💬 Ask me about 
   - Python
   - Web Development | Full Stack Development
