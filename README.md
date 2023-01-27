@@ -3,7 +3,7 @@
 <p align="center"><img src=https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309 width="400" height="200"></p>
 
 <h1 align="center">I am Pradyumna Chatterjee</h1>
-<b><p align="center">🐍 Pythonista | 🛠 Gopher | 🌐 Full Stack Developer | 👩‍💻 Builds CLI Toold | 💰 Fintech </p></b>
+<b><p align="center"> 🛠 Gopher | 🐍 Pythonista | 🌐 Full Stack Developer | 👩‍💻 Builds CLI Toold | 💰 Fintech </p></b>
 
 - 💬 Ask me about 
   - Python
