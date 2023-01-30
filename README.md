@@ -33,9 +33,14 @@ My Featured Repositories
 ---
 My Gists
 ========
-1. [GIT Helpers for managing multi repos ](https://gist.github.com/pradyumnac/25840aa2eb847551364883a820df7ddb) #bash
-2. [Get Twitter following/followers](https://gist.github.com/pradyumnac/21c21fe9218c6dd9200f04c9a79c7353) #js
-3. [Convert Youtube subscriptions(CSV) to Newsboat urls format](https://gist.github.com/pradyumnac/c067a3e8c35de4fa2c0ee4bc463b4ff8) #Bash
-4. [How to delete Multiple Gihtub.com repos in windows](https://gist.github.com/pradyumnac/4aaf21781f013b3997252a78c846fdf1)
-5. [Install chocolatey from command prompt](https://gist.github.com/pradyumnac/9800d5936a3bc54e17807563b0ff0409)
-6. [Combine multiple pdf using ghostscript with optimised file size](https://gist.github.com/pradyumnac/6d1a9c7d732ff366f2af48a2424ed47e)
+1.  [GIT Helpers for managing multi repos ](https://gist.github.com/pradyumnac/25840aa2eb847551364883a820df7ddb) #bash
+2.  [Get Twitter following/followers](https://gist.github.com/pradyumnac/21c21fe9218c6dd9200f04c9a79c7353) #js
+3.  [Convert Youtube subscriptions(CSV) to Newsboat urls format](https://gist.github.com/pradyumnac/c067a3e8c35de4fa2c0ee4bc463b4ff8) #Bash
+4.  [How to delete Multiple Github.com repos in windows](https://gist.github.com/pradyumnac/4aaf21781f013b3997252a78c846fdf1) #bat
+5.  [Batch delete repos alternate](https://gist.github.com/pradyumnac/f572e5e0aa069fb1215bda8cce6ebf3d)# bash
+6.  [Install chocolatey from command prompt](https://gist.github.com/pradyumnac/9800d5936a3bc54e17807563b0ff0409) #windows
+7.  [Combine multiple pdf using ghostscript with optimised file size](https://gist.github.com/pradyumnac/6d1a9c7d732ff366f2af48a2424ed47e) #bash
+8.  [Automated newsboat url fetcher](https://gist.github.com/pradyumnac/7c59a8d2f3013fc75ad85ea03ba08bd8) #bash
+9.  [Get Youtube playlists video list](https://gist.github.com/pradyumnac/2f7f68c9a7469bc898c115be59afcb5b) from chrome dev console #js
+10. [get list of all packages installed using apt from day one](https://gist.github.com/pradyumnac/d6ffea4f12ec77cb284c7d370e981beb) #bash
+11. [Get all Twitter Followers](https://gist.github.com/pradyumnac/21c21fe9218c6dd9200f04c9a79c7353) from chrome dev console or automation #js
